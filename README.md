@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning at FPT University
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 Gmail: tienpv2003.dev@gmail.com
-     Facebook: https://www.facebook.com/tienpv2003
-     Instagram: tienissmee
-     Linkedin: https://www.linkedin.com/in/ph%E1%BA%A1m-vinh-ti%E1%BA%BFn-9b74b8317/
+-    Facebook: https://www.facebook.com/tienpv2003
+-    Instagram: tienissmee
+-    Linkedin: https://www.linkedin.com/in/ph%E1%BA%A1m-vinh-ti%E1%BA%BFn-9b74b8317/
 - 😄 Pronouns: He
 
 <!---
