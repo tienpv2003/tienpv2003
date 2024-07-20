@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phạm Vinh Tiến
-- 👀 I’m interested in C#, ASP .NET, 
+- 👀 I’m interested in C#, ASP .NET, Java , HTML/CSS
 - 🌱 I’m currently learning at FPT University
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 Gmail: tienpv2003.dev@gmail.com
